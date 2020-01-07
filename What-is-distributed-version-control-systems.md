@@ -29,17 +29,12 @@ Git
 
 Installing Git
 * Ubuntu
-
-** sudo apt install git-all
-
+   * sudo apt install git-all
 * Mac OS X, Windows
-
-** Download from https://git-scm.com/downloads
-
+   * Download from https://git-scm.com/downloads
 * GUI Clients - https://git-scm.com/downloads/guis
 * Installing from source
-
-** sudo apt-get install dh-autoreconf libcurl4-gnutls-dev libexpat1-dev gettext libz-dev libssl-dev
-** sudo apt-get install asciidoc xmlto docbook2x install-info
-** https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.24.1.tar.gz from https://mirrors.edge.kernel.org/pub/software/scm/git/
-** tar -zxf git-2.8.0.tar.gz && cd git-2.8.0 && make configure && ./configure --prefix=/usr && make all doc info && sudo make install install-doc install-html install-info
+   * sudo apt-get install dh-autoreconf libcurl4-gnutls-dev libexpat1-dev gettext libz-dev libssl-dev
+   * sudo apt-get install asciidoc xmlto docbook2x install-info
+   * https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.24.1.tar.gz from https://mirrors.edge.kernel.org/pub/software/scm/git/
+   * tar -zxf git-2.8.0.tar.gz && cd git-2.8.0 && make configure && ./configure --prefix=/usr && make all doc info && sudo make install install-doc install-html install-info
