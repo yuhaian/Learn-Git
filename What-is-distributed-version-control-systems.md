@@ -4,12 +4,11 @@ Version Control
 * System stored all versions (all historical status) for each files over time.
 * Normally software source code (text) file, OK with binary file.
 * All the operations with version
-
-** Recall to specific version
-** Recall to specific time
-** Compare the difference between two versions / over time
-** Revert file/project to previous states
-** Who modified that version that causing that difference
+   * Recall to specific version
+   * Recall to specific time
+   * Compare the difference between two versions / over time
+   * Revert file/project to previous states
+   * Who modified that version that causing that difference
 
 Centralized Version Control Systems
 * CVS, CVS, Subversion, and Perforce etc.
