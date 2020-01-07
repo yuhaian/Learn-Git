@@ -4,6 +4,7 @@ Version Control
 * System stored all versions (all historical status) for each files over time.
 * Normally software source code (text) file, OK with binary file.
 * All the operations with version
+
 ** Recall to specific version
 ** Recall to specific time
 ** Compare the difference between two versions / over time
@@ -29,11 +30,16 @@ Git
 
 Installing Git
 * Ubuntu
+
 ** sudo apt install git-all
+
 * Mac OS X, Windows
+
 ** Download from https://git-scm.com/downloads
+
 * GUI Clients - https://git-scm.com/downloads/guis
 * Installing from source
+
 ** sudo apt-get install dh-autoreconf libcurl4-gnutls-dev libexpat1-dev gettext libz-dev libssl-dev
 ** sudo apt-get install asciidoc xmlto docbook2x install-info
 ** https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.24.1.tar.gz from https://mirrors.edge.kernel.org/pub/software/scm/git/
